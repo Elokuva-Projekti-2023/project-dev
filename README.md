@@ -1,5 +1,5 @@
-# project-dev
-# Team communication
+# Project documentation
+eam communication
 Teams, Github
-# Development
+Development
 Each team member developes in own branch "ownName" example matias-new-awesome-feature
