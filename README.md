@@ -1,4 +1,4 @@
-# Elokuva-Projekti
+# Movie project
 
 ### What this project is about: 
   - Mobile application that fetch info about movies you have watched
