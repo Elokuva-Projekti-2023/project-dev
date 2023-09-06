@@ -15,13 +15,15 @@
   - Technolgies: React Native, Java, Firebase (db), Expo
   
 ### User stories:
-- User wants to search for movies based on the movie name 
-- User wants to search for movies based on the cover of the movie using camera
-- User wants to create an account on the app
-- User wants to add their favorite movies to favorites on their account
-- User wants to mark movies "watched" they have already seen
-- User wants to add movies to the "to watch"-list on their account
-- User wants to grade and review movies to get personalised movie recommendations
+User wants to:
+- search for movies based on the movie name 
+- search for movies based on the cover of the movie using camera
+- create an account on the app
+- to add their favorite movies to favorites on their account
+- mark movies "watched" they have already seen
+- add movies to the "to watch"-list on their account
+- grade and review movies 
+- get movie recommendations based on already watched movies or based on the "to watch" list
 
 ## What the project does
 The user can search for movies information from the API.
