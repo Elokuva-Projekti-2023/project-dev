@@ -1,4 +1,4 @@
-# Movie project plapla
+# Movie project plapla plöö
 
 ### What this project is about: 
   - Mobile application that fetch info about movies you have watched
