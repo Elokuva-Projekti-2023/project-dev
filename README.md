@@ -24,6 +24,10 @@ User wants to:
 - add movies to the "to watch"-list on their account
 - grade and review movies 
 - get movie recommendations based on already watched movies or based on the "to watch" list
+- see info on movies also without an account
+- see movies that are now in theaters, most popular, top rated and upcoming movies
+- see additional info on movies when clicking on cover
+- search for movies based on the genre
 
 ## What the project does
 The user can search for movies information from the API.
